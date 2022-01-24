@@ -15,14 +15,28 @@
     color: #000;
 }
 .card-bg{
-    border-radius: 50px;
+    border-radius: 20px;
     padding: 10px;
+    box-shadow: 5px 5px 5px whitesmoke;
 }
 .card-bg-hot{
-    border-radius: 50px;
+    margin-top: 6px;
+    box-shadow: 5px 5px 5px whitesmoke;
+    border-radius: 20px;
     padding: 10px;
     background-color: #3F87F5;
     position: relative;
     bottom: 10px;
     transform: scaleY(1.05);
+}
+.footer-section{
+    height: 10rem;
+}
+.play-icons{
+    width: 100px;
+    
+}
+.apple-icon{
+    position: relative;
+    bottom: 4rem;
 }
