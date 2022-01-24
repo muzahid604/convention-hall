@@ -1,12 +1,14 @@
+/* img slider  */
 .carousel-caption-color{
-    color:#220101;
+    color:#ffffff;
     font-weight: 700;
     text-transform: capitalize;
 }
+/* extra section  */
 .first-extra{
     margin-top: 6rem;
 }
-
+/* button  */
 .btn a{
     text-decoration: none;
     color: #000;
@@ -17,6 +19,7 @@
 .toast-border{
     border-left: 5px solid blue;
 }
+/* card css */
 .card-bg{
     border-radius: 20px;
     padding: 10px;
@@ -36,9 +39,9 @@
     height: 300px;
 }
 .play-icons{
-    width: 8rem;
-    
+    width: 8rem;    
 }
+
 .apple-icon{
     position: relative;
     bottom: 4rem;
